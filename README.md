@@ -1,6 +1,10 @@
 Consume Github API (186)
 For raw project instructions see: http://syllabus.africacode.net/projects/github-api-consume/
 
+**Project Description**
+
+Retrieving information on github repositories via interaction with github API.
+
 #### **A token is required for retreiving information from private repos** 
 
 **Generating token**:
